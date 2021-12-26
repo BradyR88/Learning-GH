@@ -8,5 +8,5 @@
 import Foundation
 
 struct MyModal {
-    var myName: String?
+    var myName: String? = "brady"
 }
